@@ -8,5 +8,5 @@ Jugar a Pac-Man online aquí: [Pac-Man Gratis](https://pacmangratis.net/)
 
 ## Captura del joc
 
-![Captura de Pac-Man](pacman.png)
+![Captura de Pac-Man](/pacman-git./pacman.png)
 
